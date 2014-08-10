@@ -4,3 +4,5 @@
 * [Работа с Git репозиториями [PDF]
 ](http://dev.call2ru.com/vs/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20Git.pdf)
 * [DVCS Git и TortoiseGit в картинках. Пособие для начинающих чайников.](http://www.webdelphi.ru/2010/07/dvcs-git-i-tortoisegit-v-kartinkax-posobie-dlya-nachinayushhix-chajnikov/)
+* [Начало работы с Git (установка и настройка ПО) + полезные ссылки](http://mydb.ws/2012/08/11/ustanovka-i-nastroyka-git.html)
+* [Простое руководство по работе с git. ничего сложного ;)](http://rogerdudler.github.io/git-guide/index.ru.html)
